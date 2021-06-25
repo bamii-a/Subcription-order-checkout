@@ -1,4 +1,4 @@
-# Subscription-order-process-checkout
+# Subcription-order-checkout
 
 ### Simple subscription order process impolemented in react / styled components
 ### All states are handled in the useReducer (Redux-like)
@@ -11,4 +11,3 @@ Users are able to
 - every step is necessary in order to see the next one.
 - confirm button click handler sends data to an API endpoint
 - default values already set
-# Subcription-order-checkout
