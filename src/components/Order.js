@@ -176,10 +176,10 @@ const Wrapper = styled.div`
     border-radius: 16px;
   }
   .yes {
-    padding-right: 10rem;
+    padding-right: 45%;
   }
   .no {
-    padding-right: 10rem;
+    padding-right: 45%;
   }
   .label:hover {
     transition: all 0.3s linear;
@@ -193,7 +193,6 @@ const Wrapper = styled.div`
     color: var(--clr-white);
     background: var(--clr-primary-hover) !important;
   }
-
   .plan-btn {
     padding: 5px;
     color: black;
