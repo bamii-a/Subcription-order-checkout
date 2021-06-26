@@ -3,6 +3,8 @@
 ### Simple subscription order process impolemented in react / styled components
 ### All states are handled in the useReducer (Redux-like)
 
+https://bamii-subscription-checkout.netlify.app/
+
 Users are able to
 - toggle upfront payment which reduces total price by 10%
 - selected subscription and final price shown on every step
